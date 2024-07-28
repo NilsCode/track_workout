@@ -4,5 +4,5 @@
 - Tracking pushups using Movenet
 
 ## Instructions : 
-- Entry point is trainer.py
+- Use the extract_keypoints.ipynb to first get the keypoints.npy
 - python3 trainer.py
